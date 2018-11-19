@@ -9,12 +9,16 @@ I wrote my exploring and experiment result for Faster R-CNN in this [article]() 
     <img src="Assets/e2f4a864682b4645.jpg" width="425"/> 
     <img src="Assets/28cc7decbcc56aa1.jpg" width="425"/>
 </p>
-<img src="Assets/96b74d5aaadc2259.jpg" width="425"/> 
-<img src="Assets/978cd66b8ca034fc.jpg" width="425"/> 
-<img src="Assets/c3ca8496d6a9f2de.jpg" width="425"/> 
+<p>
+    <img src="Assets/96b74d5aaadc2259.jpg" width="425"/> 
+    <img src="Assets/c3ca8496d6a9f2de.jpg" width="425"/> 
+</p>
+
 ## Have fun
 
 As the image shown above, they are three porcoelainous monks made by China. I just named them according to their face look (not sure about the sleepy one). They are definitely not included in the Open Images Dataset V4. Except for the three classes I used in Open Images Dataset V4, I also create my own six classes dataset ('Apple Pen', 'Lipbalm', 'Scissor', 'Sleepy Monk', 'Upset Monk' and 'Happy Monk') for fun and train another detector to find out these objects. If you want to know how to do this, just see this [article]() for more details.
+<p>
 <img src="Assets/Result_customdata3.png" width="425"/> 
 <img src="Assets/Result_customdata1.jpg" width="425"/> 
 <img src="Assets/Result_customdata2.jpg" width="425"/> 
+</p>
