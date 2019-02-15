@@ -19,7 +19,7 @@ I wrote my exploring and experiment results for Faster R-CNN in this [article](h
 
 ## Have fun
 
-As the images shown below, they are three porcoelainous monks made by China. I just named them according to their face look (not sure about the sleepy one). They are definitely not included in the Open Images Dataset V4. Except for the three classes I used in Open Images Dataset V4, I create my own six-classes dataset ('Apple Pen', 'Lipbalm', 'Scissor', 'Sleepy Monk', 'Upset Monk' and 'Happy Monk') for fun and train another detector to find out these objects. If you want to know how to do this, just see this [article]() for more details.
+As the images shown below, they are three porcoelainous monks made by China. I just named them according to their face look (not sure about the sleepy one). They are definitely not included in the Open Images Dataset V4. Except for the three classes I used in Open Images Dataset V4, I create my own six-classes dataset ('Apple Pen', 'Lipbalm', 'Scissor', 'Sleepy Monk', 'Upset Monk' and 'Happy Monk') for fun and train another detector to find out these objects. If you want to know how to do this, just see this [article](https://medium.com/@rockyxu399/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a) for more details.
 <p>
 <img src="Assets/Result_customdata3.png" width="425"/>  
 <img src="Assets/Result_customdata2.jpg" width="425"/> 
